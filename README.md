@@ -11,6 +11,7 @@
 
   <p align="center">
     About Project
+    <br />
     <img src="images/logo.png" alt="image">
     <br />
     Flappy Bird game in Unity, made for study purposes, all credits and arts to Flappy Bird creator
