@@ -45,11 +45,12 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Download the tileset from here [https://www.spriters-resource.com/mobile/flappybird/sheet/59894/]
+Download the game tileset from here [https://www.spriters-resource.com/mobile/flappybird/sheet/59894/]
 
 ### Prerequisites
 
-Unity Engine Installed
+<strong>Unity Engine Installed</strong>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,7 +65,6 @@ Unity Engine Installed
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
