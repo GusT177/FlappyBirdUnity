@@ -5,13 +5,13 @@
 
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo">
 
 <h3 align="center">FLAPPY BIRD IN UNITY</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity"/></a>
 
   <p align="center">
     About Project
+    <img src="images/logo.png" alt="image">
     <br />
     Flappy Bird game in Unity, made for study purposes, all credits and arts to Flappy Bird creator
     <br />
@@ -49,7 +49,7 @@ Download the game tileset from here [https://www.spriters-resource.com/mobile/fl
 
 ### Prerequisites
 
-<strong>Unity Engine Installed</strong>
+<strong>. Unity Engine Installed</strong>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
