@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <img src="logo.png" alt="Logo">
+  <img src="images/logo.png" alt="Logo">
 
 <h3 align="center">FLAPPY BIRD IN UNITY</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity"/></a>
@@ -40,18 +40,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- GETTING STARTED -->
