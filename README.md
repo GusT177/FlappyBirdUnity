@@ -5,11 +5,10 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="./logo.png" alt="Logo">
-  </a>
+  <img src="logo.png" alt="Logo">
 
-<h3 align="center">FLAPPY BIRD IN UNITY</h3> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" /></a>
+<h3 align="center">FLAPPY BIRD IN UNITY</h3>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity"/></a>
 
   <p align="center">
     About Project
