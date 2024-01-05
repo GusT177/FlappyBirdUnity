@@ -12,7 +12,6 @@
   <p align="center">
     About Project
     <br />
-    <img src="images/logo.png" alt="image">
     <br />
     Flappy Bird game in Unity, made for study purposes, all credits and arts to Flappy Bird creator
     <br />
@@ -34,11 +33,9 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -59,12 +56,15 @@ Download the game tileset from here [https://www.spriters-resource.com/mobile/fl
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Mechanics and Features
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- Gravity
+- Jump
+- Game Over
+- Score
+- Ground Parallax
+- Pipes Collision
+- Spawning Pipes
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,15 +87,5 @@ My Discord: Bom dia do zap zap#4613
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
