@@ -43,7 +43,12 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
+Create a 2D project on Unity
+
+
 Download the game tileset from here [https://www.spriters-resource.com/mobile/flappybird/sheet/59894/]
+
+Download the Flappy Bird Fonts [https://www.dafont.com/04b-19.font]
 
 ### Prerequisites
 
